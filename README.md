@@ -25,11 +25,24 @@ It includes:
 - Created binary target `no_show_binary` (1 = missed, 0 = attended)
 - Removed duplicates
 
-## Exploratory Analysis
-Key visualizations explore:
-- No-show rates by factors like scholarship, chronic illness, alcoholism, and SMS.
-- Age distribution and attendance correlation.
+## Key Visualizations
 
-![](images/sms_impact_chart.png)
+Below are some insights from the data visualizations:
 
-## Project Structure
+### 1. No-show Rate by Different Factors
+
+These bar charts show how different patient attributes affect the rate of missed appointments.
+
+| Scholarship | Hypertension | Diabetes |
+|-------------|--------------|----------|
+| ![](images/no-show-scholarship.png) | ![](images/no-show-hipertention.png) | ![](images/no-show-diabetes.png) |
+
+| Alcoholism | SMS Received | SMS Impact |
+|------------|---------------|-------------|
+| ![](images/no-show-alcoholism.png) | ![](images/no-show-sms.png) | ![](images/no-show-impact-of-sms.png) |
+
+### 2. Age Distribution by Show/No-show
+
+This chart shows that older patients tend to attend appointments more reliably than younger ones.
+
+<img src="images/no-show-age-distribution.png" width="400"/>
