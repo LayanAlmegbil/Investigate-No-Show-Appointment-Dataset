@@ -1,4 +1,7 @@
 # 📅 No-show Medical Appointments Analysis
+![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-blue)
+![Category](https://img.shields.io/badge/Category-Healthcare%20No--Show%20Analysis-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 This project is part of the **Data Analyst Nanodegree** from **Udacity**. It explores a dataset of over 100,000 medical appointments in Brazil to uncover what factors influence whether patients attend their scheduled appointments.
 
